@@ -76,7 +76,10 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 | [![](https://github.com/user-attachments/assets/2ca72a6a-61e1-4992-ae85-fa2f6fd7ff47)](https://github.com/yasir723/Karga-Notify) **Karga Notify** | [![](https://github.com/user-attachments/assets/6eba42a0-dbc4-456b-bdd7-be99666b905a)](https://github.com/yasir723/veri-yapilari) **Veri Yapıları** |
 | [![](https://github.com/user-attachments/assets/9cd8f821-3c3a-4443-b347-543f3e7d291c)](https://github.com/yasir723/alrawi-micro) **Alrawi Micro** |  |
 
-
+## 2. Sınıf
+|                    |                    |
+|:-------------------------:|:-------------------------:|
+| [![](https://github.com/user-attachments/assets/3f757524-443b-4686-a3ea-f014dcc0fc41)](https://github.com/yasir723/ClipReplay) **ClipReplay** |
 
 ## 1. Sınıf
 |                    |                    |
